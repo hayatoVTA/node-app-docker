@@ -1,0 +1,22 @@
+{
+  "name": "app-docker",
+  "version": "1.0.0",
+  "description": "- build ``` $ docker build . ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayatoVTA/node-app-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayatoVTA/node-app-docker/issues"
+  },
+  "homepage": "https://github.com/hayatoVTA/node-app-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
